@@ -1,10 +1,10 @@
-# SlienceG Team Solution for KDDCUP2022  
-for each turbine, we have 3 models:  
-1 for lightgbm(namely lgn)  
-1 for first 144 timestamps prediction(namely GRU-FH)  
-1 for 288 timestamps prediction(namely GRU-ALL).  
-more information about [KDDCUP2022](https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction)  
-## model training:  
+# SlienceG Team Solution for KDDCUP2022\<br>
+for each turbine, we have 3 models:\<br>
+1 for lightgbm(namely lgn)\<br>
+1 for first 144 timestamps prediction(namely GRU-FH)\<br>
+1 for 288 timestamps prediction(namely GRU-ALL).\<br>
+more information about [KDDCUP2022](https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction)\<br>
+## model training:\<br>
 **before training, you need to upload the dataset into folder LGB_train and GRU_train.**  
 ### for LGB_train:  
  1. modify the file prepare.py to your path.  
