@@ -27,5 +27,5 @@ python train.py #Bash
 ## model testing:
 **before testing, put the pretrained model into folder checkpoints of prediction**  
 1. modify the file prepare.py and predict.py to your model path.  
-2. submit the prediction folder for online test. 
+2. submit the prediction folder for online test.  
 **Any problems please contact me at jackie64321@gmail.com**
