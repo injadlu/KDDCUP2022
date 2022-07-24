@@ -28,4 +28,4 @@ python train.py #Bash
 **before testing, put the pretrained model into folder checkpoints of prediction**\<br>
 1. modify the file prepare.py and predict.py to your model path.\<br>
 2. submit the prediction folder for online test.\<br>
-**Any problems please contact me at jackie64321@gmail.com**
+`Any problems please contact me at jackie64321@gmail.com`
