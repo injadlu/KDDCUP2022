@@ -9,7 +9,9 @@ more information about [KDDCUP2022](https://aistudio.baidu.com/aistudio/competit
 for LGB_train:  
  1. data proprecess  
  ```Bash  
- python datapreprocess.py#Bash
+ python datapreprocess.py #Bash
  ```  
  2. LGB Train  
- '<python train_split_smooth.py>'
+ ```Bash
+ python train_split_smooth.py #Bash
+ ```
