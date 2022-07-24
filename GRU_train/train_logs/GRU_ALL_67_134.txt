@@ -1,0 +1,2534 @@
+The experimental settings are: 
+{'path_to_test_x': './data/sdwpf_baidukddcup2022_test_toy/test_x', 'path_to_test_y': './data/sdwpf_baidukddcup2022_test_toy/test_y', 'data_path': '/data/jinda/kdd_245_days', 'filename': 'wtbdata_245days.csv', 'task': 'MS', 'target': 'Patv', 'checkpoints': '/output/', 'input_len': 144, 'output_len': 288, 'start_col': 3, 'hidR': 96, 'in_var': 10, 'out_var': 1, 'day_len': 144, 'train_size': 214, 'val_size': 31, 'total_size': 245, 'lstm_layer': 1, 'dropout': 0.05, 'num_workers': 16, 'train_epochs': 10, 'batch_size': 64, 'patience': 5, 'lr': 0.0001, 'lr_adjust': 'type1', 'use_gpu': True, 'gpu': 0, 'capacity': 134, 'turbine_id': 67, 'pred_file': 'predict.py', 'framework': 'pytorch', 'is_debug': True}
+
+>>>>>>> Training Turbine  67 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.781715357429103, 
+Validation Loss: 1.3127409400361958
+Elapsed time for epoch-0: 33.95756769180298
+Epoch: 1, 
+Train Loss: 1.6442265841835424, 
+Validation Loss: 1.3616130966128726
+Elapsed time for epoch-1: 30.797770023345947
+Epoch: 2, 
+Train Loss: 1.6381795506728323, 
+Validation Loss: 1.3346680998802185
+Elapsed time for epoch-2: 30.116589069366455
+Epoch: 3, 
+Train Loss: 1.6362182162937364, 
+Validation Loss: 1.3135801716284319
+Elapsed time for epoch-3: 30.27332043647766
+Epoch: 4, 
+Train Loss: 1.6354924854479338, 
+Validation Loss: 1.334593030539426
+Elapsed time for epoch-4: 30.668197631835938
+Epoch: 5, 
+Train Loss: 1.6349469757080077, 
+Validation Loss: 1.3509500640811343
+Elapsed time for epoch-5: 30.4068341255188
+Early stopped! 
+
+Training the 67-th turbine in 226.03356838226318 secs
+
+>>>>>>> Training Turbine  68 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9565733774084795, 
+Validation Loss: 1.8212603294488154
+Elapsed time for epoch-0: 31.281933069229126
+Epoch: 1, 
+Train Loss: 1.7475027526052374, 
+Validation Loss: 1.8417190421711316
+Elapsed time for epoch-1: 30.50786781311035
+Epoch: 2, 
+Train Loss: 1.7354524080376876, 
+Validation Loss: 1.8073562347527705
+Elapsed time for epoch-2: 30.81686806678772
+Epoch: 3, 
+Train Loss: 1.7325379843460886, 
+Validation Loss: 1.8089840881752246
+Elapsed time for epoch-3: 30.81687831878662
+Epoch: 4, 
+Train Loss: 1.7313645026558324, 
+Validation Loss: 1.8057021534804143
+Elapsed time for epoch-4: 30.607550144195557
+Epoch: 5, 
+Train Loss: 1.7307766573052656, 
+Validation Loss: 1.8013734113086353
+Elapsed time for epoch-5: 30.07077932357788
+Epoch: 6, 
+Train Loss: 1.730344523630644, 
+Validation Loss: 1.8036283055941265
+Elapsed time for epoch-6: 30.626951694488525
+Epoch: 7, 
+Train Loss: 1.730153344806872, 
+Validation Loss: 1.8014834956689314
+Elapsed time for epoch-7: 30.78132152557373
+Epoch: 8, 
+Train Loss: 1.7302265202371698, 
+Validation Loss: 1.802114269950173
+Elapsed time for epoch-8: 30.212381839752197
+Epoch: 9, 
+Train Loss: 1.7300214604327553, 
+Validation Loss: 1.8045284730015378
+Elapsed time for epoch-9: 30.875449895858765
+
+Training the 68-th turbine in 352.36907172203064 secs
+
+>>>>>>> Training Turbine  69 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.978631064013431, 
+Validation Loss: 1.5709997180736426
+Elapsed time for epoch-0: 30.50457453727722
+Epoch: 1, 
+Train Loss: 1.774590358232197, 
+Validation Loss: 1.529875180938027
+Elapsed time for epoch-1: 30.627790689468384
+Epoch: 2, 
+Train Loss: 1.7569100613343087, 
+Validation Loss: 1.5562497919256038
+Elapsed time for epoch-2: 30.105884075164795
+Epoch: 3, 
+Train Loss: 1.7535447130705182, 
+Validation Loss: 1.5264574758934253
+Elapsed time for epoch-3: 30.214537382125854
+Epoch: 4, 
+Train Loss: 1.752067682617589, 
+Validation Loss: 1.5275066061453386
+Elapsed time for epoch-4: 29.688482999801636
+Epoch: 5, 
+Train Loss: 1.7515797421806738, 
+Validation Loss: 1.517365787968491
+Elapsed time for epoch-5: 30.317976474761963
+Epoch: 6, 
+Train Loss: 1.7514929382424607, 
+Validation Loss: 1.5203626318411394
+Elapsed time for epoch-6: 30.469536781311035
+Epoch: 7, 
+Train Loss: 1.7512496160206041, 
+Validation Loss: 1.5233312086625532
+Elapsed time for epoch-7: 30.0622661113739
+Epoch: 8, 
+Train Loss: 1.751258777568215, 
+Validation Loss: 1.5209912422931555
+Elapsed time for epoch-8: 30.823612689971924
+Epoch: 9, 
+Train Loss: 1.7512215619338187, 
+Validation Loss: 1.5233150016177783
+Elapsed time for epoch-9: 30.753328323364258
+
+Training the 69-th turbine in 352.3010129928589 secs
+
+>>>>>>> Training Turbine  70 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9757284814433047, 
+Validation Loss: 1.8344386996644917
+Elapsed time for epoch-0: 30.260542154312134
+Epoch: 1, 
+Train Loss: 1.7841551436875995, 
+Validation Loss: 1.816404315558347
+Elapsed time for epoch-1: 30.555743932724
+Epoch: 2, 
+Train Loss: 1.7690570585351242, 
+Validation Loss: 1.8128322019721523
+Elapsed time for epoch-2: 30.469594955444336
+Epoch: 3, 
+Train Loss: 1.766309979589362, 
+Validation Loss: 1.8062947591145833
+Elapsed time for epoch-3: 30.356541395187378
+Epoch: 4, 
+Train Loss: 1.7646796607971191, 
+Validation Loss: 1.817012850082282
+Elapsed time for epoch-4: 30.151219606399536
+Epoch: 5, 
+Train Loss: 1.7642634692944978, 
+Validation Loss: 1.8125413060188293
+Elapsed time for epoch-5: 30.158155918121338
+Epoch: 6, 
+Train Loss: 1.7639702892303466, 
+Validation Loss: 1.8109536568323772
+Elapsed time for epoch-6: 30.69740104675293
+Epoch: 7, 
+Train Loss: 1.7638890836113377, 
+Validation Loss: 1.8143068841009429
+Elapsed time for epoch-7: 29.794896364212036
+Epoch: 8, 
+Train Loss: 1.7635298440330907, 
+Validation Loss: 1.8135831193490461
+Elapsed time for epoch-8: 30.078226566314697
+Early stopped! 
+
+Training the 70-th turbine in 321.5690393447876 secs
+
+>>>>>>> Training Turbine  71 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.981879657444201, 
+Validation Loss: 1.7808669715216665
+Elapsed time for epoch-0: 30.891133546829224
+Epoch: 1, 
+Train Loss: 1.7749215131056937, 
+Validation Loss: 1.756227251255151
+Elapsed time for epoch-1: 30.937039375305176
+Epoch: 2, 
+Train Loss: 1.7613152933120728, 
+Validation Loss: 1.7884192665417988
+Elapsed time for epoch-2: 30.249706745147705
+Epoch: 3, 
+Train Loss: 1.7589391389646027, 
+Validation Loss: 1.7520734848398152
+Elapsed time for epoch-3: 30.849324703216553
+Epoch: 4, 
+Train Loss: 1.757419615293804, 
+Validation Loss: 1.7683877782388167
+Elapsed time for epoch-4: 30.917339324951172
+Epoch: 5, 
+Train Loss: 1.7570938298576757, 
+Validation Loss: 1.7641648361177156
+Elapsed time for epoch-5: 30.687264442443848
+Epoch: 6, 
+Train Loss: 1.7565518529791582, 
+Validation Loss: 1.7652950142369126
+Elapsed time for epoch-6: 30.792198657989502
+Epoch: 7, 
+Train Loss: 1.756536337199964, 
+Validation Loss: 1.7731452241088406
+Elapsed time for epoch-7: 30.230045557022095
+Epoch: 8, 
+Train Loss: 1.7566884033303511, 
+Validation Loss: 1.7683964805169539
+Elapsed time for epoch-8: 30.5790376663208
+Early stopped! 
+
+Training the 71-th turbine in 311.00810647010803 secs
+
+>>>>>>> Training Turbine  72 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9745094906656366, 
+Validation Loss: 1.8140169707211582
+Elapsed time for epoch-0: 30.87669324874878
+Epoch: 1, 
+Train Loss: 1.7775366640090942, 
+Validation Loss: 1.8055495818456013
+Elapsed time for epoch-1: 30.244912147521973
+Epoch: 2, 
+Train Loss: 1.762469330586885, 
+Validation Loss: 1.7793128111145713
+Elapsed time for epoch-2: 30.7236647605896
+Epoch: 3, 
+Train Loss: 1.7589776653992502, 
+Validation Loss: 1.788735321073821
+Elapsed time for epoch-3: 30.74278974533081
+Epoch: 4, 
+Train Loss: 1.7578667841459577, 
+Validation Loss: 1.7851733511144465
+Elapsed time for epoch-4: 30.887290000915527
+Epoch: 5, 
+Train Loss: 1.7567655608528538, 
+Validation Loss: 1.779360005349824
+Elapsed time for epoch-5: 30.710564136505127
+Epoch: 6, 
+Train Loss: 1.7565365881668893, 
+Validation Loss: 1.7784001339565625
+Elapsed time for epoch-6: 30.503062963485718
+Epoch: 7, 
+Train Loss: 1.756216206801565, 
+Validation Loss: 1.7844750790885
+Elapsed time for epoch-7: 31.19307279586792
+Epoch: 8, 
+Train Loss: 1.7563492072255988, 
+Validation Loss: 1.7832786549221387
+Elapsed time for epoch-8: 30.665764331817627
+Epoch: 9, 
+Train Loss: 1.7564476439827368, 
+Validation Loss: 1.7791380557146939
+Elapsed time for epoch-9: 30.43917465209961
+
+Training the 72-th turbine in 357.2435600757599 secs
+
+>>>>>>> Training Turbine  73 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9957161040055125, 
+Validation Loss: 1.5641439231959255
+Elapsed time for epoch-0: 31.244539499282837
+Epoch: 1, 
+Train Loss: 1.7954921466425846, 
+Validation Loss: 1.5764255036007275
+Elapsed time for epoch-1: 30.639347076416016
+Epoch: 2, 
+Train Loss: 1.7822799923545436, 
+Validation Loss: 1.5578897414785442
+Elapsed time for epoch-2: 31.002094507217407
+Epoch: 3, 
+Train Loss: 1.78010304024345, 
+Validation Loss: 1.5643806818759802
+Elapsed time for epoch-3: 31.195075273513794
+Epoch: 4, 
+Train Loss: 1.7788680769267835, 
+Validation Loss: 1.5813538721113494
+Elapsed time for epoch-4: 30.732798099517822
+Epoch: 5, 
+Train Loss: 1.7781266290263125, 
+Validation Loss: 1.5822218584291863
+Elapsed time for epoch-5: 30.789095878601074
+Epoch: 6, 
+Train Loss: 1.7781325129458778, 
+Validation Loss: 1.5733949939409893
+Elapsed time for epoch-6: 30.57363748550415
+Epoch: 7, 
+Train Loss: 1.777957027585883, 
+Validation Loss: 1.576859181577509
+Elapsed time for epoch-7: 30.392642498016357
+Early stopped! 
+
+Training the 73-th turbine in 287.2604329586029 secs
+
+>>>>>>> Training Turbine  74 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9835324247259842, 
+Validation Loss: 1.7974499464035034
+Elapsed time for epoch-0: 30.31912851333618
+Epoch: 1, 
+Train Loss: 1.7845194319674844, 
+Validation Loss: 1.766349778030858
+Elapsed time for epoch-1: 31.272102117538452
+Epoch: 2, 
+Train Loss: 1.7667624458513762, 
+Validation Loss: 1.7471455425927134
+Elapsed time for epoch-2: 30.94645595550537
+Epoch: 3, 
+Train Loss: 1.762935232865183, 
+Validation Loss: 1.755288687619296
+Elapsed time for epoch-3: 30.52468204498291
+Epoch: 4, 
+Train Loss: 1.7616271932501542, 
+Validation Loss: 1.7499122023582458
+Elapsed time for epoch-4: 30.47957444190979
+Epoch: 5, 
+Train Loss: 1.7610246412377608, 
+Validation Loss: 1.7571605534264536
+Elapsed time for epoch-5: 30.193852424621582
+Epoch: 6, 
+Train Loss: 1.7608845251484921, 
+Validation Loss: 1.757123148802555
+Elapsed time for epoch-6: 30.888981819152832
+Epoch: 7, 
+Train Loss: 1.7607109125036942, 
+Validation Loss: 1.7655817866325378
+Elapsed time for epoch-7: 30.31811213493347
+Early stopped! 
+
+Training the 74-th turbine in 282.4787929058075 secs
+
+>>>>>>> Training Turbine  75 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0040336019114444, 
+Validation Loss: 1.7126140991846721
+Elapsed time for epoch-0: 31.176761865615845
+Epoch: 1, 
+Train Loss: 1.8239680490995709, 
+Validation Loss: 1.7194932103157043
+Elapsed time for epoch-1: 30.72765064239502
+Epoch: 2, 
+Train Loss: 1.8138173831136604, 
+Validation Loss: 1.7046742656014182
+Elapsed time for epoch-2: 31.1089985370636
+Epoch: 3, 
+Train Loss: 1.8117773467616032, 
+Validation Loss: 1.7087160637884429
+Elapsed time for epoch-3: 30.30615210533142
+Epoch: 4, 
+Train Loss: 1.8107622623443604, 
+Validation Loss: 1.718878316156792
+Elapsed time for epoch-4: 30.767332315444946
+Epoch: 5, 
+Train Loss: 1.8101508670104178, 
+Validation Loss: 1.7084467681971462
+Elapsed time for epoch-5: 30.01270031929016
+Epoch: 6, 
+Train Loss: 1.8097954348513954, 
+Validation Loss: 1.7013804497140828
+Elapsed time for epoch-6: 30.665859699249268
+Epoch: 7, 
+Train Loss: 1.8096727014842786, 
+Validation Loss: 1.712282486034162
+Elapsed time for epoch-7: 30.754061460494995
+Epoch: 8, 
+Train Loss: 1.8095972467723647, 
+Validation Loss: 1.7078129920092495
+Elapsed time for epoch-8: 30.750323057174683
+Epoch: 9, 
+Train Loss: 1.8097982296190764, 
+Validation Loss: 1.7087227286714497
+Elapsed time for epoch-9: 30.832654237747192
+
+Training the 75-th turbine in 353.5451693534851 secs
+
+>>>>>>> Training Turbine  76 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0169295938391434, 
+Validation Loss: 1.6656739603389392
+Elapsed time for epoch-0: 30.809273958206177
+Epoch: 1, 
+Train Loss: 1.8164186465112786, 
+Validation Loss: 1.6570021383690112
+Elapsed time for epoch-1: 30.494406700134277
+Epoch: 2, 
+Train Loss: 1.801647730877525, 
+Validation Loss: 1.6767400647654678
+Elapsed time for epoch-2: 30.423819541931152
+Epoch: 3, 
+Train Loss: 1.798581385361521, 
+Validation Loss: 1.6582614309859998
+Elapsed time for epoch-3: 31.27177858352661
+Epoch: 4, 
+Train Loss: 1.7980154875705117, 
+Validation Loss: 1.6807952143929221
+Elapsed time for epoch-4: 30.695345401763916
+Epoch: 5, 
+Train Loss: 1.7972452748449226, 
+Validation Loss: 1.6667472900766316
+Elapsed time for epoch-5: 30.597384214401245
+Epoch: 6, 
+Train Loss: 1.796762926954972, 
+Validation Loss: 1.6630573670069377
+Elapsed time for epoch-6: 30.51486039161682
+Early stopped! 
+
+Training the 76-th turbine in 249.5798144340515 secs
+
+>>>>>>> Training Turbine  77 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9559539393374794, 
+Validation Loss: 1.693906616080891
+Elapsed time for epoch-0: 31.291540384292603
+Epoch: 1, 
+Train Loss: 1.7679715028562044, 
+Validation Loss: 1.6802442073822021
+Elapsed time for epoch-1: 30.745898008346558
+Epoch: 2, 
+Train Loss: 1.7553768481706318, 
+Validation Loss: 1.686744962677811
+Elapsed time for epoch-2: 30.880083799362183
+Epoch: 3, 
+Train Loss: 1.752469478406404, 
+Validation Loss: 1.6664256218707922
+Elapsed time for epoch-3: 30.574314832687378
+Epoch: 4, 
+Train Loss: 1.7516673607575266, 
+Validation Loss: 1.6728483871980147
+Elapsed time for epoch-4: 30.371936798095703
+Epoch: 5, 
+Train Loss: 1.7511775967949315, 
+Validation Loss: 1.6757162249449529
+Elapsed time for epoch-5: 30.527145385742188
+Epoch: 6, 
+Train Loss: 1.7506517839431763, 
+Validation Loss: 1.671719213326772
+Elapsed time for epoch-6: 30.20620632171631
+Epoch: 7, 
+Train Loss: 1.7506027670910485, 
+Validation Loss: 1.663259547768217
+Elapsed time for epoch-7: 30.26037073135376
+Epoch: 8, 
+Train Loss: 1.7505590421275088, 
+Validation Loss: 1.669576276432384
+Elapsed time for epoch-8: 30.977302312850952
+Epoch: 9, 
+Train Loss: 1.750515805545606, 
+Validation Loss: 1.6711472796671318
+Elapsed time for epoch-9: 30.614149808883667
+
+Training the 77-th turbine in 348.32877683639526 secs
+
+>>>>>>> Training Turbine  78 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9975267495607074, 
+Validation Loss: 1.7081098249464324
+Elapsed time for epoch-0: 31.022873401641846
+Epoch: 1, 
+Train Loss: 1.8074929061688876, 
+Validation Loss: 1.7012585311224966
+Elapsed time for epoch-1: 30.68644118309021
+Epoch: 2, 
+Train Loss: 1.7938835492886995, 
+Validation Loss: 1.6966589057084285
+Elapsed time for epoch-2: 30.91739511489868
+Epoch: 3, 
+Train Loss: 1.7914623697180496, 
+Validation Loss: 1.6978410518530644
+Elapsed time for epoch-3: 30.704292058944702
+Epoch: 4, 
+Train Loss: 1.790617399717632, 
+Validation Loss: 1.6955905990167097
+Elapsed time for epoch-4: 30.573813438415527
+Epoch: 5, 
+Train Loss: 1.7902266725740934, 
+Validation Loss: 1.692050550923203
+Elapsed time for epoch-5: 30.59226155281067
+Epoch: 6, 
+Train Loss: 1.7900288940730849, 
+Validation Loss: 1.6984198472716592
+Elapsed time for epoch-6: 30.72546100616455
+Epoch: 7, 
+Train Loss: 1.7900121691352442, 
+Validation Loss: 1.7020242683815234
+Elapsed time for epoch-7: 30.98558759689331
+Epoch: 8, 
+Train Loss: 1.7898207774915194, 
+Validation Loss: 1.7027442220485571
+Elapsed time for epoch-8: 30.83127474784851
+Epoch: 9, 
+Train Loss: 1.7897593237224378, 
+Validation Loss: 1.699991139498624
+Elapsed time for epoch-9: 30.769646644592285
+
+Training the 78-th turbine in 354.15278005599976 secs
+
+>>>>>>> Training Turbine  79 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9645584407605623, 
+Validation Loss: 1.695538089130864
+Elapsed time for epoch-0: 31.157245635986328
+Epoch: 1, 
+Train Loss: 1.7714730711987143, 
+Validation Loss: 1.6858192899010398
+Elapsed time for epoch-1: 30.98877453804016
+Epoch: 2, 
+Train Loss: 1.758649360757125, 
+Validation Loss: 1.6976660905462322
+Elapsed time for epoch-2: 31.00664782524109
+Epoch: 3, 
+Train Loss: 1.755368560991789, 
+Validation Loss: 1.6699133136055686
+Elapsed time for epoch-3: 30.29225444793701
+Epoch: 4, 
+Train Loss: 1.7546495216771176, 
+Validation Loss: 1.6814398621067856
+Elapsed time for epoch-4: 30.954238414764404
+Epoch: 5, 
+Train Loss: 1.7542296735863936, 
+Validation Loss: 1.6798652175701025
+Elapsed time for epoch-5: 30.69150161743164
+Epoch: 6, 
+Train Loss: 1.7542702624672337, 
+Validation Loss: 1.6879993171402903
+Elapsed time for epoch-6: 30.82843852043152
+Epoch: 7, 
+Train Loss: 1.7541236814699674, 
+Validation Loss: 1.6838840571316807
+Elapsed time for epoch-7: 30.721787691116333
+Epoch: 8, 
+Train Loss: 1.753958885042291, 
+Validation Loss: 1.686537478909348
+Elapsed time for epoch-8: 30.622267484664917
+Early stopped! 
+
+Training the 79-th turbine in 326.0995547771454 secs
+
+>>>>>>> Training Turbine  80 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9860859496969925, 
+Validation Loss: 1.6619208292527632
+Elapsed time for epoch-0: 30.56779718399048
+Epoch: 1, 
+Train Loss: 1.7896710338090596, 
+Validation Loss: 1.6316027189746047
+Elapsed time for epoch-1: 30.299998998641968
+Epoch: 2, 
+Train Loss: 1.7763161210009926, 
+Validation Loss: 1.6558557857166638
+Elapsed time for epoch-2: 30.827115535736084
+Epoch: 3, 
+Train Loss: 1.7738298386021665, 
+Validation Loss: 1.6992806936755325
+Elapsed time for epoch-3: 30.155508756637573
+Epoch: 4, 
+Train Loss: 1.7724512205625835, 
+Validation Loss: 1.6905485662547024
+Elapsed time for epoch-4: 30.621421813964844
+Epoch: 5, 
+Train Loss: 1.7722687982258043, 
+Validation Loss: 1.6764635895237778
+Elapsed time for epoch-5: 31.142946004867554
+Epoch: 6, 
+Train Loss: 1.7719030837008827, 
+Validation Loss: 1.6770883058056687
+Elapsed time for epoch-6: 30.743932485580444
+Early stopped! 
+
+Training the 80-th turbine in 254.1048173904419 secs
+
+>>>>>>> Training Turbine  81 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9712284800880833, 
+Validation Loss: 1.721988320350647
+Elapsed time for epoch-0: 31.008711338043213
+Epoch: 1, 
+Train Loss: 1.7774662088093005, 
+Validation Loss: 1.7194329012524
+Elapsed time for epoch-1: 30.744455575942993
+Epoch: 2, 
+Train Loss: 1.7602095556259156, 
+Validation Loss: 1.6836328741275903
+Elapsed time for epoch-2: 30.49966597557068
+Epoch: 3, 
+Train Loss: 1.7569193932884617, 
+Validation Loss: 1.7223892916332593
+Elapsed time for epoch-3: 30.743778467178345
+Epoch: 4, 
+Train Loss: 1.7558897294496234, 
+Validation Loss: 1.7185166279474895
+Elapsed time for epoch-4: 30.022123098373413
+Epoch: 5, 
+Train Loss: 1.755300992664538, 
+Validation Loss: 1.7028077840805054
+Elapsed time for epoch-5: 30.736507654190063
+Epoch: 6, 
+Train Loss: 1.7548035182450947, 
+Validation Loss: 1.7072674776568557
+Elapsed time for epoch-6: 30.082864999771118
+Epoch: 7, 
+Train Loss: 1.75466316348628, 
+Validation Loss: 1.710745500795769
+Elapsed time for epoch-7: 30.50924062728882
+Early stopped! 
+
+Training the 81-th turbine in 286.9802143573761 secs
+
+>>>>>>> Training Turbine  82 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0467786196658486, 
+Validation Loss: 1.592181465842507
+Elapsed time for epoch-0: 30.945638418197632
+Epoch: 1, 
+Train Loss: 1.8488115779977097, 
+Validation Loss: 1.5681055296551099
+Elapsed time for epoch-1: 30.39218306541443
+Epoch: 2, 
+Train Loss: 1.8307061152709159, 
+Validation Loss: 1.5664712118379998
+Elapsed time for epoch-2: 30.76244854927063
+Epoch: 3, 
+Train Loss: 1.8271797935586227, 
+Validation Loss: 1.5817873694679954
+Elapsed time for epoch-3: 30.90624690055847
+Epoch: 4, 
+Train Loss: 1.8264442047319913, 
+Validation Loss: 1.5767278255838337
+Elapsed time for epoch-4: 30.75678277015686
+Epoch: 5, 
+Train Loss: 1.825884723914297, 
+Validation Loss: 1.5830842491352197
+Elapsed time for epoch-5: 30.93595576286316
+Epoch: 6, 
+Train Loss: 1.8254002867246928, 
+Validation Loss: 1.5645308801622102
+Elapsed time for epoch-6: 31.04754137992859
+Epoch: 7, 
+Train Loss: 1.8250336880432931, 
+Validation Loss: 1.5751325253284338
+Elapsed time for epoch-7: 31.201205492019653
+Epoch: 8, 
+Train Loss: 1.8252091573414049, 
+Validation Loss: 1.578987676085848
+Elapsed time for epoch-8: 31.051913261413574
+Epoch: 9, 
+Train Loss: 1.8249986405121652, 
+Validation Loss: 1.5765317624265498
+Elapsed time for epoch-9: 30.553772449493408
+
+Training the 82-th turbine in 356.87007093429565 secs
+
+>>>>>>> Training Turbine  83 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.032302158004359, 
+Validation Loss: 1.6175117655233904
+Elapsed time for epoch-0: 31.160844802856445
+Epoch: 1, 
+Train Loss: 1.8411255567952207, 
+Validation Loss: 1.6249221111788894
+Elapsed time for epoch-1: 30.843571662902832
+Epoch: 2, 
+Train Loss: 1.8285315455888447, 
+Validation Loss: 1.6394287058801362
+Elapsed time for epoch-2: 31.31420612335205
+Epoch: 3, 
+Train Loss: 1.8263378715515137, 
+Validation Loss: 1.6077005899313725
+Elapsed time for epoch-3: 30.57114315032959
+Epoch: 4, 
+Train Loss: 1.825032649291189, 
+Validation Loss: 1.6398521463076274
+Elapsed time for epoch-4: 30.88649892807007
+Epoch: 5, 
+Train Loss: 1.8245185468071385, 
+Validation Loss: 1.6220878055601409
+Elapsed time for epoch-5: 30.91166853904724
+Epoch: 6, 
+Train Loss: 1.8242533618525454, 
+Validation Loss: 1.6204592368819497
+Elapsed time for epoch-6: 31.53606677055359
+Epoch: 7, 
+Train Loss: 1.8242167583264803, 
+Validation Loss: 1.6142662023053025
+Elapsed time for epoch-7: 31.32327890396118
+Epoch: 8, 
+Train Loss: 1.8237889340049342, 
+Validation Loss: 1.6204104622205098
+Elapsed time for epoch-8: 30.71622085571289
+Early stopped! 
+
+Training the 83-th turbine in 323.9617865085602 secs
+
+>>>>>>> Training Turbine  84 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9934314717744526, 
+Validation Loss: 1.591833977988272
+Elapsed time for epoch-0: 30.601154327392578
+Epoch: 1, 
+Train Loss: 1.7995523251985248, 
+Validation Loss: 1.60349184997154
+Elapsed time for epoch-1: 30.96834135055542
+Epoch: 2, 
+Train Loss: 1.7863287298302901, 
+Validation Loss: 1.5707498499841401
+Elapsed time for epoch-2: 30.7063090801239
+Epoch: 3, 
+Train Loss: 1.7838800919683355, 
+Validation Loss: 1.5746910915230259
+Elapsed time for epoch-3: 30.83861470222473
+Epoch: 4, 
+Train Loss: 1.7826171046809147, 
+Validation Loss: 1.5930853431875056
+Elapsed time for epoch-4: 30.69642448425293
+Epoch: 5, 
+Train Loss: 1.7820019139741596, 
+Validation Loss: 1.5777431545835552
+Elapsed time for epoch-5: 30.656275510787964
+Epoch: 6, 
+Train Loss: 1.7819175855736984, 
+Validation Loss: 1.5785653771776142
+Elapsed time for epoch-6: 31.292839288711548
+Epoch: 7, 
+Train Loss: 1.7815839902978194, 
+Validation Loss: 1.5839029207374111
+Elapsed time for epoch-7: 30.67102599143982
+Early stopped! 
+
+Training the 84-th turbine in 287.43257427215576 secs
+
+>>>>>>> Training Turbine  85 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9992277667396947, 
+Validation Loss: 1.5259101137970432
+Elapsed time for epoch-0: 30.635483741760254
+Epoch: 1, 
+Train Loss: 1.818055235210218, 
+Validation Loss: 1.536736466667869
+Elapsed time for epoch-1: 30.053778409957886
+Epoch: 2, 
+Train Loss: 1.8076227489270662, 
+Validation Loss: 1.5732396985545303
+Elapsed time for epoch-2: 30.83894157409668
+Epoch: 3, 
+Train Loss: 1.8052871121858296, 
+Validation Loss: 1.5487632119294368
+Elapsed time for epoch-3: 30.0814425945282
+Epoch: 4, 
+Train Loss: 1.8038241609774137, 
+Validation Loss: 1.5441366361849236
+Elapsed time for epoch-4: 30.72622537612915
+Epoch: 5, 
+Train Loss: 1.8036530557431674, 
+Validation Loss: 1.554287339701797
+Elapsed time for epoch-5: 30.25574803352356
+Early stopped! 
+
+Training the 85-th turbine in 216.45796942710876 secs
+
+>>>>>>> Training Turbine  86 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9979200819918983, 
+Validation Loss: 1.416201120073145
+Elapsed time for epoch-0: 30.90157914161682
+Epoch: 1, 
+Train Loss: 1.8171826084036575, 
+Validation Loss: 1.4435009974421877
+Elapsed time for epoch-1: 30.9651837348938
+Epoch: 2, 
+Train Loss: 1.8030926980470356, 
+Validation Loss: 1.4885517304593867
+Elapsed time for epoch-2: 30.904000520706177
+Epoch: 3, 
+Train Loss: 1.8002127481761732, 
+Validation Loss: 1.4704175609530825
+Elapsed time for epoch-3: 30.37253451347351
+Epoch: 4, 
+Train Loss: 1.7990597521631342, 
+Validation Loss: 1.446600039800008
+Elapsed time for epoch-4: 31.179035663604736
+Epoch: 5, 
+Train Loss: 1.7983176688144082, 
+Validation Loss: 1.454939123355981
+Elapsed time for epoch-5: 31.08945941925049
+Early stopped! 
+
+Training the 86-th turbine in 228.64306354522705 secs
+
+>>>>>>> Training Turbine  87 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9700420896630537, 
+Validation Loss: 1.4686154632857351
+Elapsed time for epoch-0: 30.824817419052124
+Epoch: 1, 
+Train Loss: 1.7828808480814884, 
+Validation Loss: 1.4384625680518872
+Elapsed time for epoch-1: 31.01854634284973
+Epoch: 2, 
+Train Loss: 1.7707234073940077, 
+Validation Loss: 1.4182581937674321
+Elapsed time for epoch-2: 30.74997115135193
+Epoch: 3, 
+Train Loss: 1.7687483968232807, 
+Validation Loss: 1.415706865715258
+Elapsed time for epoch-3: 30.824504852294922
+Epoch: 4, 
+Train Loss: 1.7675117010819283, 
+Validation Loss: 1.4237043153155933
+Elapsed time for epoch-4: 30.208421230316162
+Epoch: 5, 
+Train Loss: 1.767310794780129, 
+Validation Loss: 1.4368790586789448
+Elapsed time for epoch-5: 30.307748317718506
+Epoch: 6, 
+Train Loss: 1.7668539524078368, 
+Validation Loss: 1.4377926895112703
+Elapsed time for epoch-6: 30.25318479537964
+Epoch: 7, 
+Train Loss: 1.7667225817630166, 
+Validation Loss: 1.4355793324383823
+Elapsed time for epoch-7: 30.48527455329895
+Epoch: 8, 
+Train Loss: 1.7666449514188265, 
+Validation Loss: 1.43463257226077
+Elapsed time for epoch-8: 30.95540761947632
+Early stopped! 
+
+Training the 87-th turbine in 313.34081387519836 secs
+
+>>>>>>> Training Turbine  88 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.016258515307778, 
+Validation Loss: 1.5042639501167065
+Elapsed time for epoch-0: 30.626891374588013
+Epoch: 1, 
+Train Loss: 1.8179432035747327, 
+Validation Loss: 1.50859934091568
+Elapsed time for epoch-1: 30.37362051010132
+Epoch: 2, 
+Train Loss: 1.8026363179558202, 
+Validation Loss: 1.4640529896273757
+Elapsed time for epoch-2: 30.476707935333252
+Epoch: 3, 
+Train Loss: 1.7999996491482384, 
+Validation Loss: 1.4833274375308643
+Elapsed time for epoch-3: 30.391241550445557
+Epoch: 4, 
+Train Loss: 1.7988558056480006, 
+Validation Loss: 1.4927125934398535
+Elapsed time for epoch-4: 30.31399655342102
+Epoch: 5, 
+Train Loss: 1.7982572683535125, 
+Validation Loss: 1.4823507684649844
+Elapsed time for epoch-5: 30.196051120758057
+Epoch: 6, 
+Train Loss: 1.797874499873111, 
+Validation Loss: 1.4891682520057217
+Elapsed time for epoch-6: 31.002718687057495
+Epoch: 7, 
+Train Loss: 1.7977725586138273, 
+Validation Loss: 1.4861318812225803
+Elapsed time for epoch-7: 30.291152954101562
+Early stopped! 
+
+Training the 88-th turbine in 293.54178762435913 secs
+
+>>>>>>> Training Turbine  89 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0275122313750416, 
+Validation Loss: 1.219561446796764
+Elapsed time for epoch-0: 30.40040135383606
+Epoch: 1, 
+Train Loss: 1.830662919345655, 
+Validation Loss: 1.142910644863591
+Elapsed time for epoch-1: 30.385376453399658
+Epoch: 2, 
+Train Loss: 1.8158240398607757, 
+Validation Loss: 1.1787495829842307
+Elapsed time for epoch-2: 29.96423864364624
+Epoch: 3, 
+Train Loss: 1.8122514022024054, 
+Validation Loss: 1.18082803849018
+Elapsed time for epoch-3: 30.256292581558228
+Epoch: 4, 
+Train Loss: 1.8113298458802072, 
+Validation Loss: 1.20290330323306
+Elapsed time for epoch-4: 30.237757444381714
+Epoch: 5, 
+Train Loss: 1.8104094884270117, 
+Validation Loss: 1.1846736127679998
+Elapsed time for epoch-5: 30.506845951080322
+Epoch: 6, 
+Train Loss: 1.8101523572520206, 
+Validation Loss: 1.199769599871202
+Elapsed time for epoch-6: 30.342645168304443
+Early stopped! 
+
+Training the 89-th turbine in 261.18415093421936 secs
+
+>>>>>>> Training Turbine  90 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.011764013139825, 
+Validation Loss: 1.5806218764998696
+Elapsed time for epoch-0: 30.872621297836304
+Epoch: 1, 
+Train Loss: 1.8136124861867804, 
+Validation Loss: 1.5897938934239475
+Elapsed time for epoch-1: 30.831851959228516
+Epoch: 2, 
+Train Loss: 1.7997113300624648, 
+Validation Loss: 1.5804432756973035
+Elapsed time for epoch-2: 30.7793710231781
+Epoch: 3, 
+Train Loss: 1.7965673180630333, 
+Validation Loss: 1.5967604969487046
+Elapsed time for epoch-3: 31.22965717315674
+Epoch: 4, 
+Train Loss: 1.7951003925423874, 
+Validation Loss: 1.588959605404825
+Elapsed time for epoch-4: 31.39057183265686
+Epoch: 5, 
+Train Loss: 1.7944204189902857, 
+Validation Loss: 1.5924335916837056
+Elapsed time for epoch-5: 30.63059401512146
+Epoch: 6, 
+Train Loss: 1.7941875071274607, 
+Validation Loss: 1.5933000409241878
+Elapsed time for epoch-6: 30.749000310897827
+Epoch: 7, 
+Train Loss: 1.7940072212721172, 
+Validation Loss: 1.588019179575371
+Elapsed time for epoch-7: 30.688549995422363
+Early stopped! 
+
+Training the 90-th turbine in 291.5817975997925 secs
+
+>>>>>>> Training Turbine  91 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.95722454472592, 
+Validation Loss: 1.4682722109736819
+Elapsed time for epoch-0: 31.242589473724365
+Epoch: 1, 
+Train Loss: 1.781468996750681, 
+Validation Loss: 1.457934274817958
+Elapsed time for epoch-1: 30.839495420455933
+Epoch: 2, 
+Train Loss: 1.7703188180923461, 
+Validation Loss: 1.4197030410622105
+Elapsed time for epoch-2: 30.675984859466553
+Epoch: 3, 
+Train Loss: 1.7677776650378578, 
+Validation Loss: 1.4399929696863347
+Elapsed time for epoch-3: 30.588541984558105
+Epoch: 4, 
+Train Loss: 1.766575527944063, 
+Validation Loss: 1.4313062357180046
+Elapsed time for epoch-4: 31.157694816589355
+Epoch: 5, 
+Train Loss: 1.7663464302765695, 
+Validation Loss: 1.4340129097302754
+Elapsed time for epoch-5: 31.275428533554077
+Epoch: 6, 
+Train Loss: 1.7663094395085386, 
+Validation Loss: 1.4385894844026277
+Elapsed time for epoch-6: 30.69751000404358
+Epoch: 7, 
+Train Loss: 1.7661870271281193, 
+Validation Loss: 1.43502399596301
+Elapsed time for epoch-7: 31.275861024856567
+Early stopped! 
+
+Training the 91-th turbine in 297.42978501319885 secs
+
+>>>>>>> Training Turbine  92 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9407663613871524, 
+Validation Loss: 1.728924198584123
+Elapsed time for epoch-0: 31.642208099365234
+Epoch: 1, 
+Train Loss: 1.7434027850000482, 
+Validation Loss: 1.729329268137614
+Elapsed time for epoch-1: 30.996886491775513
+Epoch: 2, 
+Train Loss: 1.7310081870932328, 
+Validation Loss: 1.7387985135569717
+Elapsed time for epoch-2: 31.055198431015015
+Epoch: 3, 
+Train Loss: 1.728620622283534, 
+Validation Loss: 1.739206592241923
+Elapsed time for epoch-3: 31.09599280357361
+Epoch: 4, 
+Train Loss: 1.7274651961577565, 
+Validation Loss: 1.733079559875257
+Elapsed time for epoch-4: 31.077807188034058
+Epoch: 5, 
+Train Loss: 1.7269412030671771, 
+Validation Loss: 1.7378943887623874
+Elapsed time for epoch-5: 31.09464454650879
+Early stopped! 
+
+Training the 92-th turbine in 230.8897316455841 secs
+
+>>>>>>> Training Turbine  93 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.8406277352885196, 
+Validation Loss: 1.588298322576465
+Elapsed time for epoch-0: 30.97567844390869
+Epoch: 1, 
+Train Loss: 1.6103502215837178, 
+Validation Loss: 1.55153079105146
+Elapsed time for epoch-1: 30.21105432510376
+Epoch: 2, 
+Train Loss: 1.590563897584614, 
+Validation Loss: 1.5295627875761553
+Elapsed time for epoch-2: 30.448894739151
+Epoch: 3, 
+Train Loss: 1.5865545616651837, 
+Validation Loss: 1.546976994384419
+Elapsed time for epoch-3: 30.34419274330139
+Epoch: 4, 
+Train Loss: 1.5850781508495932, 
+Validation Loss: 1.5427204876235037
+Elapsed time for epoch-4: 30.764100790023804
+Epoch: 5, 
+Train Loss: 1.5844325949016371, 
+Validation Loss: 1.5424448378158337
+Elapsed time for epoch-5: 30.936492204666138
+Epoch: 6, 
+Train Loss: 1.5843757220318442, 
+Validation Loss: 1.5399161523038691
+Elapsed time for epoch-6: 30.60478186607361
+Epoch: 7, 
+Train Loss: 1.5840673030050176, 
+Validation Loss: 1.5457990043091052
+Elapsed time for epoch-7: 31.2647545337677
+Early stopped! 
+
+Training the 93-th turbine in 293.20956540107727 secs
+
+>>>>>>> Training Turbine  94 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9424914834373876, 
+Validation Loss: 1.6725167921095183
+Elapsed time for epoch-0: 31.19138264656067
+Epoch: 1, 
+Train Loss: 1.749591333991603, 
+Validation Loss: 1.671321572679462
+Elapsed time for epoch-1: 31.184813261032104
+Epoch: 2, 
+Train Loss: 1.734862191300643, 
+Validation Loss: 1.664289324572592
+Elapsed time for epoch-2: 30.325247526168823
+Epoch: 3, 
+Train Loss: 1.7317258438311125, 
+Validation Loss: 1.6727818449338276
+Elapsed time for epoch-3: 30.93586540222168
+Epoch: 4, 
+Train Loss: 1.7303845044186241, 
+Validation Loss: 1.6726267735163372
+Elapsed time for epoch-4: 30.754817008972168
+Epoch: 5, 
+Train Loss: 1.7303425643318577, 
+Validation Loss: 1.6648245200966343
+Elapsed time for epoch-5: 30.719269514083862
+Epoch: 6, 
+Train Loss: 1.7300227925651952, 
+Validation Loss: 1.6734556086135632
+Elapsed time for epoch-6: 30.46840190887451
+Epoch: 7, 
+Train Loss: 1.7298780323329725, 
+Validation Loss: 1.6673828923340999
+Elapsed time for epoch-7: 30.684922695159912
+Early stopped! 
+
+Training the 94-th turbine in 287.263099193573 secs
+
+>>>>>>> Training Turbine  95 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9559750466597707, 
+Validation Loss: 1.5742484674309238
+Elapsed time for epoch-0: 30.866511821746826
+Epoch: 1, 
+Train Loss: 1.7489278873644376, 
+Validation Loss: 1.5973458976456614
+Elapsed time for epoch-1: 30.692612648010254
+Epoch: 2, 
+Train Loss: 1.7355059824491803, 
+Validation Loss: 1.56616005933646
+Elapsed time for epoch-2: 30.763741970062256
+Epoch: 3, 
+Train Loss: 1.7332596071142898, 
+Validation Loss: 1.5875088482192068
+Elapsed time for epoch-3: 30.679871559143066
+Epoch: 4, 
+Train Loss: 1.731969784937407, 
+Validation Loss: 1.5837001547668919
+Elapsed time for epoch-4: 30.708134412765503
+Epoch: 5, 
+Train Loss: 1.7317302904630962, 
+Validation Loss: 1.5735292434692383
+Elapsed time for epoch-5: 31.00944447517395
+Epoch: 6, 
+Train Loss: 1.7316764369763826, 
+Validation Loss: 1.5752093954519792
+Elapsed time for epoch-6: 31.147119522094727
+Epoch: 7, 
+Train Loss: 1.7310170050671225, 
+Validation Loss: 1.577014836398038
+Elapsed time for epoch-7: 30.463167190551758
+Early stopped! 
+
+Training the 95-th turbine in 281.8215301036835 secs
+
+>>>>>>> Training Turbine  96 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0243588096217104, 
+Validation Loss: 1.6068400397445217
+Elapsed time for epoch-0: 30.678670644760132
+Epoch: 1, 
+Train Loss: 1.8258026823244597, 
+Validation Loss: 1.5491408452843174
+Elapsed time for epoch-1: 30.392169713974
+Epoch: 2, 
+Train Loss: 1.8106526670957865, 
+Validation Loss: 1.6365217584552187
+Elapsed time for epoch-2: 30.887916803359985
+Epoch: 3, 
+Train Loss: 1.807562689028288, 
+Validation Loss: 1.6020088629289106
+Elapsed time for epoch-3: 31.266696453094482
+Epoch: 4, 
+Train Loss: 1.8067274477607325, 
+Validation Loss: 1.5777155016407822
+Elapsed time for epoch-4: 30.626585960388184
+Epoch: 5, 
+Train Loss: 1.8056821941074572, 
+Validation Loss: 1.5886565681659814
+Elapsed time for epoch-5: 30.60740900039673
+Epoch: 6, 
+Train Loss: 1.8057168697056016, 
+Validation Loss: 1.5887180639035774
+Elapsed time for epoch-6: 31.106199979782104
+Early stopped! 
+
+Training the 96-th turbine in 248.18166589736938 secs
+
+>>>>>>> Training Turbine  97 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.984401223032098, 
+Validation Loss: 1.727057563536095
+Elapsed time for epoch-0: 30.230402946472168
+Epoch: 1, 
+Train Loss: 1.8058832284023887, 
+Validation Loss: 1.6744961594090317
+Elapsed time for epoch-1: 30.93382954597473
+Epoch: 2, 
+Train Loss: 1.7953913593292237, 
+Validation Loss: 1.710360424085097
+Elapsed time for epoch-2: 30.649263620376587
+Epoch: 3, 
+Train Loss: 1.7930948676561054, 
+Validation Loss: 1.695981654253873
+Elapsed time for epoch-3: 31.238323211669922
+Epoch: 4, 
+Train Loss: 1.7921198508613987, 
+Validation Loss: 1.6957839528719585
+Elapsed time for epoch-4: 30.48523449897766
+Epoch: 5, 
+Train Loss: 1.7921185280147351, 
+Validation Loss: 1.7012690486329975
+Elapsed time for epoch-5: 30.022992610931396
+Epoch: 6, 
+Train Loss: 1.7914200996097764, 
+Validation Loss: 1.692383885383606
+Elapsed time for epoch-6: 30.48402714729309
+Early stopped! 
+
+Training the 97-th turbine in 245.8175024986267 secs
+
+>>>>>>> Training Turbine  98 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0176349328693592, 
+Validation Loss: 1.770471827550368
+Elapsed time for epoch-0: 31.063040494918823
+Epoch: 1, 
+Train Loss: 1.8678475947129098, 
+Validation Loss: 1.7735791766282283
+Elapsed time for epoch-1: 30.80299973487854
+Epoch: 2, 
+Train Loss: 1.8574615066929867, 
+Validation Loss: 1.7740657275373286
+Elapsed time for epoch-2: 30.819418907165527
+Epoch: 3, 
+Train Loss: 1.8552673382508127, 
+Validation Loss: 1.7708958513808972
+Elapsed time for epoch-3: 30.402002573013306
+Epoch: 4, 
+Train Loss: 1.85459540241643, 
+Validation Loss: 1.772790455456936
+Elapsed time for epoch-4: 30.802818536758423
+Epoch: 5, 
+Train Loss: 1.8530527887846293, 
+Validation Loss: 1.7677330754019998
+Elapsed time for epoch-5: 31.101380586624146
+Epoch: 6, 
+Train Loss: 1.8536442686382093, 
+Validation Loss: 1.7736666058049058
+Elapsed time for epoch-6: 30.795367002487183
+Epoch: 7, 
+Train Loss: 1.8532157835207488, 
+Validation Loss: 1.7720021659677678
+Elapsed time for epoch-7: 31.02536416053772
+Epoch: 8, 
+Train Loss: 1.8530753163287514, 
+Validation Loss: 1.7731943148555178
+Elapsed time for epoch-8: 30.64302158355713
+Epoch: 9, 
+Train Loss: 1.8529996229472914, 
+Validation Loss: 1.773574507597721
+Elapsed time for epoch-9: 31.180736303329468
+
+Training the 98-th turbine in 351.5501983165741 secs
+
+>>>>>>> Training Turbine  99 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9824361587825574, 
+Validation Loss: 1.704711464318362
+Elapsed time for epoch-0: 31.652201175689697
+Epoch: 1, 
+Train Loss: 1.8168307869057907, 
+Validation Loss: 1.7096050760962747
+Elapsed time for epoch-1: 31.224252223968506
+Epoch: 2, 
+Train Loss: 1.8063260811253599, 
+Validation Loss: 1.6793006748864145
+Elapsed time for epoch-2: 31.01173162460327
+Epoch: 3, 
+Train Loss: 1.8044820579729581, 
+Validation Loss: 1.6907308264212175
+Elapsed time for epoch-3: 30.943676710128784
+Epoch: 4, 
+Train Loss: 1.8038873943529632, 
+Validation Loss: 1.6976219686594876
+Elapsed time for epoch-4: 30.9683780670166
+Epoch: 5, 
+Train Loss: 1.8035216994034617, 
+Validation Loss: 1.7064607342084248
+Elapsed time for epoch-5: 30.830904483795166
+Epoch: 6, 
+Train Loss: 1.803449444770813, 
+Validation Loss: 1.7042567278399612
+Elapsed time for epoch-6: 31.030627489089966
+Epoch: 7, 
+Train Loss: 1.8026850308870015, 
+Validation Loss: 1.7028893846454043
+Elapsed time for epoch-7: 30.3722825050354
+Early stopped! 
+
+Training the 99-th turbine in 289.9107644557953 secs
+
+>>>>>>> Training Turbine 100 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9575942079644455, 
+Validation Loss: 1.6342855005553274
+Elapsed time for epoch-0: 31.437347173690796
+Epoch: 1, 
+Train Loss: 1.760958823655781, 
+Validation Loss: 1.6139139605290962
+Elapsed time for epoch-1: 31.21050524711609
+Epoch: 2, 
+Train Loss: 1.745188636779785, 
+Validation Loss: 1.6471232338385149
+Elapsed time for epoch-2: 31.199707984924316
+Epoch: 3, 
+Train Loss: 1.7420064281162462, 
+Validation Loss: 1.6260819706049832
+Elapsed time for epoch-3: 31.111366748809814
+Epoch: 4, 
+Train Loss: 1.7411067450673956, 
+Validation Loss: 1.6170643170674641
+Elapsed time for epoch-4: 31.37747597694397
+Epoch: 5, 
+Train Loss: 1.740696422677291, 
+Validation Loss: 1.6211258787097353
+Elapsed time for epoch-5: 31.147666215896606
+Epoch: 6, 
+Train Loss: 1.740259347212942, 
+Validation Loss: 1.630209328550281
+Elapsed time for epoch-6: 30.759538650512695
+Early stopped! 
+
+Training the 100-th turbine in 262.35179805755615 secs
+
+>>>>>>> Training Turbine 101 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0191836904224596, 
+Validation Loss: 1.6215120806838528
+Elapsed time for epoch-0: 30.58213782310486
+Epoch: 1, 
+Train Loss: 1.8229864539598164, 
+Validation Loss: 1.6042289860320813
+Elapsed time for epoch-1: 31.591057300567627
+Epoch: 2, 
+Train Loss: 1.8072136738425808, 
+Validation Loss: 1.556674068624323
+Elapsed time for epoch-2: 31.374263525009155
+Epoch: 3, 
+Train Loss: 1.80450625068263, 
+Validation Loss: 1.5724608554984585
+Elapsed time for epoch-3: 31.141639709472656
+Epoch: 4, 
+Train Loss: 1.8029445517690559, 
+Validation Loss: 1.593048662850351
+Elapsed time for epoch-4: 31.197183847427368
+Epoch: 5, 
+Train Loss: 1.802707990094235, 
+Validation Loss: 1.5882614381385571
+Elapsed time for epoch-5: 30.764554738998413
+Epoch: 6, 
+Train Loss: 1.8024474934527748, 
+Validation Loss: 1.5900300614761584
+Elapsed time for epoch-6: 30.83480215072632
+Epoch: 7, 
+Train Loss: 1.8018292831119738, 
+Validation Loss: 1.5870736313588691
+Elapsed time for epoch-7: 30.86496591567993
+Early stopped! 
+
+Training the 101-th turbine in 292.6003243923187 secs
+
+>>>>>>> Training Turbine 102 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9988823386242516, 
+Validation Loss: 1.4949236114819844
+Elapsed time for epoch-0: 30.780050039291382
+Epoch: 1, 
+Train Loss: 1.813233041010405, 
+Validation Loss: 1.5159454237331043
+Elapsed time for epoch-1: 31.049039602279663
+Epoch: 2, 
+Train Loss: 1.7999373822463187, 
+Validation Loss: 1.4907738331592444
+Elapsed time for epoch-2: 30.4469792842865
+Epoch: 3, 
+Train Loss: 1.7976620433205053, 
+Validation Loss: 1.4944032069408533
+Elapsed time for epoch-3: 30.401293754577637
+Epoch: 4, 
+Train Loss: 1.7960918446591025, 
+Validation Loss: 1.4939789121801204
+Elapsed time for epoch-4: 31.06031823158264
+Epoch: 5, 
+Train Loss: 1.7959256516004865, 
+Validation Loss: 1.5044830640157063
+Elapsed time for epoch-5: 30.59396767616272
+Epoch: 6, 
+Train Loss: 1.7958679726249294, 
+Validation Loss: 1.4947889483336247
+Elapsed time for epoch-6: 31.347559213638306
+Epoch: 7, 
+Train Loss: 1.7958290752611663, 
+Validation Loss: 1.4969803727034368
+Elapsed time for epoch-7: 31.014519929885864
+Early stopped! 
+
+Training the 102-th turbine in 294.634464263916 secs
+
+>>>>>>> Training Turbine 103 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.992371728545741, 
+Validation Loss: 1.4585271694443442
+Elapsed time for epoch-0: 30.942252159118652
+Epoch: 1, 
+Train Loss: 1.8056970500946046, 
+Validation Loss: 1.4957197145982222
+Elapsed time for epoch-1: 30.89047884941101
+Epoch: 2, 
+Train Loss: 1.7927442367453323, 
+Validation Loss: 1.4847439509449583
+Elapsed time for epoch-2: 31.654783487319946
+Epoch: 3, 
+Train Loss: 1.7895783926311293, 
+Validation Loss: 1.4926666527083425
+Elapsed time for epoch-3: 30.994611024856567
+Epoch: 4, 
+Train Loss: 1.7884006040974667, 
+Validation Loss: 1.471799910068512
+Elapsed time for epoch-4: 30.843170881271362
+Epoch: 5, 
+Train Loss: 1.7877445524617246, 
+Validation Loss: 1.4806159265113599
+Elapsed time for epoch-5: 30.75785517692566
+Early stopped! 
+
+Training the 103-th turbine in 236.25616145133972 secs
+
+>>>>>>> Training Turbine 104 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9987581589347438, 
+Validation Loss: 1.5485861120801983
+Elapsed time for epoch-0: 30.923521280288696
+Epoch: 1, 
+Train Loss: 1.81264808830462, 
+Validation Loss: 1.5210045142607256
+Elapsed time for epoch-1: 30.894073009490967
+Epoch: 2, 
+Train Loss: 1.7979450800544337, 
+Validation Loss: 1.550692036296382
+Elapsed time for epoch-2: 30.9320330619812
+Epoch: 3, 
+Train Loss: 1.7950710984280236, 
+Validation Loss: 1.5308119112795049
+Elapsed time for epoch-3: 31.22583246231079
+Epoch: 4, 
+Train Loss: 1.793818077288176, 
+Validation Loss: 1.5289913921645193
+Elapsed time for epoch-4: 30.633980989456177
+Epoch: 5, 
+Train Loss: 1.793206269113641, 
+Validation Loss: 1.5327603437683799
+Elapsed time for epoch-5: 30.99117159843445
+Epoch: 6, 
+Train Loss: 1.7932307155508744, 
+Validation Loss: 1.5341970107772134
+Elapsed time for epoch-6: 30.76886773109436
+Early stopped! 
+
+Training the 104-th turbine in 253.26904702186584 secs
+
+>>>>>>> Training Turbine 105 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9734618575949419, 
+Validation Loss: 1.4389258279944912
+Elapsed time for epoch-0: 30.94110679626465
+Epoch: 1, 
+Train Loss: 1.779105201018484, 
+Validation Loss: 1.4657115665349094
+Elapsed time for epoch-1: 30.355846643447876
+Epoch: 2, 
+Train Loss: 1.767694101835552, 
+Validation Loss: 1.4445222291079434
+Elapsed time for epoch-2: 30.870293617248535
+Epoch: 3, 
+Train Loss: 1.7647662343476949, 
+Validation Loss: 1.4432655482581167
+Elapsed time for epoch-3: 31.318950653076172
+Epoch: 4, 
+Train Loss: 1.7640450259258873, 
+Validation Loss: 1.4624778646411318
+Elapsed time for epoch-4: 30.549823760986328
+Epoch: 5, 
+Train Loss: 1.7635862295251143, 
+Validation Loss: 1.4574183875864202
+Elapsed time for epoch-5: 31.30654001235962
+Early stopped! 
+
+Training the 105-th turbine in 227.30005955696106 secs
+
+>>>>>>> Training Turbine 106 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0069438552856447, 
+Validation Loss: 1.4289645697131301
+Elapsed time for epoch-0: 30.959447860717773
+Epoch: 1, 
+Train Loss: 1.8224624141893888, 
+Validation Loss: 1.4253913109952754
+Elapsed time for epoch-1: 30.98301386833191
+Epoch: 2, 
+Train Loss: 1.8079762815174303, 
+Validation Loss: 1.4443278023690889
+Elapsed time for epoch-2: 31.337700366973877
+Epoch: 3, 
+Train Loss: 1.8049691940608779, 
+Validation Loss: 1.4259937513958325
+Elapsed time for epoch-3: 30.885104179382324
+Epoch: 4, 
+Train Loss: 1.8038776565852919, 
+Validation Loss: 1.4235937360561255
+Elapsed time for epoch-4: 31.594959020614624
+Epoch: 5, 
+Train Loss: 1.8030219226134452, 
+Validation Loss: 1.416375953139681
+Elapsed time for epoch-5: 30.564958572387695
+Epoch: 6, 
+Train Loss: 1.8029489908720318, 
+Validation Loss: 1.4151177008946736
+Elapsed time for epoch-6: 30.556745052337646
+Epoch: 7, 
+Train Loss: 1.8030200365970008, 
+Validation Loss: 1.4119652184573086
+Elapsed time for epoch-7: 30.492207527160645
+Epoch: 8, 
+Train Loss: 1.802603121305767, 
+Validation Loss: 1.4165326248515735
+Elapsed time for epoch-8: 30.65762448310852
+Epoch: 9, 
+Train Loss: 1.802266963155646, 
+Validation Loss: 1.4182395609942349
+Elapsed time for epoch-9: 31.395657300949097
+
+Training the 106-th turbine in 359.0487308502197 secs
+
+>>>>>>> Training Turbine 107 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0190123151478017, 
+Validation Loss: 1.368457449204994
+Elapsed time for epoch-0: 30.946444034576416
+Epoch: 1, 
+Train Loss: 1.8334461111771434, 
+Validation Loss: 1.3708807284181768
+Elapsed time for epoch-1: 30.86131238937378
+Epoch: 2, 
+Train Loss: 1.8194325823532909, 
+Validation Loss: 1.3668222264810042
+Elapsed time for epoch-2: 30.951775550842285
+Epoch: 3, 
+Train Loss: 1.8165007568660536, 
+Validation Loss: 1.3759775179805178
+Elapsed time for epoch-3: 31.155720710754395
+Epoch: 4, 
+Train Loss: 1.8150504845067075, 
+Validation Loss: 1.3737464583281316
+Elapsed time for epoch-4: 30.80886936187744
+Epoch: 5, 
+Train Loss: 1.814788774942097, 
+Validation Loss: 1.3709202950650996
+Elapsed time for epoch-5: 31.400850296020508
+Epoch: 6, 
+Train Loss: 1.814357429805555, 
+Validation Loss: 1.360964991829612
+Elapsed time for epoch-6: 30.4137544631958
+Epoch: 7, 
+Train Loss: 1.814098986575478, 
+Validation Loss: 1.3710996002861948
+Elapsed time for epoch-7: 31.12574338912964
+Epoch: 8, 
+Train Loss: 1.8141607927021228, 
+Validation Loss: 1.3638215444304727
+Elapsed time for epoch-8: 30.554609537124634
+Epoch: 9, 
+Train Loss: 1.8143393767507452, 
+Validation Loss: 1.3662114089185542
+Elapsed time for epoch-9: 30.785303115844727
+
+Training the 107-th turbine in 350.39086532592773 secs
+
+>>>>>>> Training Turbine 108 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9953379176792345, 
+Validation Loss: 1.5371142788366838
+Elapsed time for epoch-0: 30.569021224975586
+Epoch: 1, 
+Train Loss: 1.8110002075998406, 
+Validation Loss: 1.4331084489822388
+Elapsed time for epoch-1: 30.781078338623047
+Epoch: 2, 
+Train Loss: 1.7969546190061068, 
+Validation Loss: 1.459647577820402
+Elapsed time for epoch-2: 30.31932044029236
+Epoch: 3, 
+Train Loss: 1.7941929106963308, 
+Validation Loss: 1.4582186521905842
+Elapsed time for epoch-3: 31.03508973121643
+Epoch: 4, 
+Train Loss: 1.7929890062934475, 
+Validation Loss: 1.4720026922948433
+Elapsed time for epoch-4: 30.733800649642944
+Epoch: 5, 
+Train Loss: 1.7924858346738313, 
+Validation Loss: 1.4654128659855237
+Elapsed time for epoch-5: 30.724783658981323
+Epoch: 6, 
+Train Loss: 1.7924229438681352, 
+Validation Loss: 1.4750282800558843
+Elapsed time for epoch-6: 30.910749673843384
+Early stopped! 
+
+Training the 108-th turbine in 260.0971579551697 secs
+
+>>>>>>> Training Turbine 109 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0109767773276883, 
+Validation Loss: 1.3377914374524897
+Elapsed time for epoch-0: 31.242953062057495
+Epoch: 1, 
+Train Loss: 1.8267369418395194, 
+Validation Loss: 1.4002930612275095
+Elapsed time for epoch-1: 30.34909152984619
+Epoch: 2, 
+Train Loss: 1.8117184910021331, 
+Validation Loss: 1.3828979351303794
+Elapsed time for epoch-2: 31.04244351387024
+Epoch: 3, 
+Train Loss: 1.8092671708056802, 
+Validation Loss: 1.3921123399878994
+Elapsed time for epoch-3: 30.890493631362915
+Epoch: 4, 
+Train Loss: 1.808468053968329, 
+Validation Loss: 1.3942768754381123
+Elapsed time for epoch-4: 31.053894519805908
+Epoch: 5, 
+Train Loss: 1.8078814145138389, 
+Validation Loss: 1.3917055996981533
+Elapsed time for epoch-5: 30.360185623168945
+Early stopped! 
+
+Training the 109-th turbine in 229.3842294216156 secs
+
+>>>>>>> Training Turbine 110 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9991789228037784, 
+Validation Loss: 1.5240957989837185
+Elapsed time for epoch-0: 30.838253498077393
+Epoch: 1, 
+Train Loss: 1.8131448148426257, 
+Validation Loss: 1.4214889244599775
+Elapsed time for epoch-1: 30.94184970855713
+Epoch: 2, 
+Train Loss: 1.796876822019878, 
+Validation Loss: 1.4831174323053071
+Elapsed time for epoch-2: 30.726737022399902
+Epoch: 3, 
+Train Loss: 1.7934831057096783, 
+Validation Loss: 1.4664206107457478
+Elapsed time for epoch-3: 31.320266008377075
+Epoch: 4, 
+Train Loss: 1.7926276638633327, 
+Validation Loss: 1.471475651769927
+Elapsed time for epoch-4: 30.653964281082153
+Epoch: 5, 
+Train Loss: 1.7918552353507593, 
+Validation Loss: 1.4737508676268838
+Elapsed time for epoch-5: 30.67913579940796
+Epoch: 6, 
+Train Loss: 1.7916342429110879, 
+Validation Loss: 1.469915545347965
+Elapsed time for epoch-6: 31.09429907798767
+Early stopped! 
+
+Training the 110-th turbine in 264.941287279129 secs
+
+>>>>>>> Training Turbine 111 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0238831351932727, 
+Validation Loss: 1.4386858741442363
+Elapsed time for epoch-0: 30.588562726974487
+Epoch: 1, 
+Train Loss: 1.8213628829152961, 
+Validation Loss: 1.4798007715832104
+Elapsed time for epoch-1: 31.10303521156311
+Epoch: 2, 
+Train Loss: 1.803764012487311, 
+Validation Loss: 1.4653034589507363
+Elapsed time for epoch-2: 31.18776559829712
+Epoch: 3, 
+Train Loss: 1.8004910343571714, 
+Validation Loss: 1.4340918497605757
+Elapsed time for epoch-3: 30.816263675689697
+Epoch: 4, 
+Train Loss: 1.7991201460988897, 
+Validation Loss: 1.4661152922745906
+Elapsed time for epoch-4: 30.901589155197144
+Epoch: 5, 
+Train Loss: 1.798534866885135, 
+Validation Loss: 1.4691222418438306
+Elapsed time for epoch-5: 30.54188299179077
+Epoch: 6, 
+Train Loss: 1.7979129025810643, 
+Validation Loss: 1.4582323142976472
+Elapsed time for epoch-6: 30.853771209716797
+Epoch: 7, 
+Train Loss: 1.7978349891461824, 
+Validation Loss: 1.4640809333685674
+Elapsed time for epoch-7: 30.85142207145691
+Epoch: 8, 
+Train Loss: 1.797579281706559, 
+Validation Loss: 1.4611154433452722
+Elapsed time for epoch-8: 30.63558077812195
+Early stopped! 
+
+Training the 111-th turbine in 310.97227573394775 secs
+
+>>>>>>> Training Turbine 112 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9488874969984356, 
+Validation Loss: 1.6776135202610132
+Elapsed time for epoch-0: 31.74428081512451
+Epoch: 1, 
+Train Loss: 1.7517324088749133, 
+Validation Loss: 1.6361315394892837
+Elapsed time for epoch-1: 30.77638864517212
+Epoch: 2, 
+Train Loss: 1.7377704191207886, 
+Validation Loss: 1.6463119261192554
+Elapsed time for epoch-2: 31.181735277175903
+Epoch: 3, 
+Train Loss: 1.7349723329042133, 
+Validation Loss: 1.659094714757168
+Elapsed time for epoch-3: 30.484527111053467
+Epoch: 4, 
+Train Loss: 1.7337972362417924, 
+Validation Loss: 1.6576915871013294
+Elapsed time for epoch-4: 31.610267639160156
+Epoch: 5, 
+Train Loss: 1.7335432567094502, 
+Validation Loss: 1.6547169215751416
+Elapsed time for epoch-5: 30.741491556167603
+Epoch: 6, 
+Train Loss: 1.7331364799800673, 
+Validation Loss: 1.651526355382168
+Elapsed time for epoch-6: 31.352543115615845
+Early stopped! 
+
+Training the 112-th turbine in 266.0989134311676 secs
+
+>>>>>>> Training Turbine 113 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.960125392612658, 
+Validation Loss: 1.732941726843516
+Elapsed time for epoch-0: 31.067444801330566
+Epoch: 1, 
+Train Loss: 1.772953826000816, 
+Validation Loss: 1.7348874753171748
+Elapsed time for epoch-1: 30.79059410095215
+Epoch: 2, 
+Train Loss: 1.7614448198519255, 
+Validation Loss: 1.7628308931986492
+Elapsed time for epoch-2: 31.43122148513794
+Epoch: 3, 
+Train Loss: 1.7591977109407124, 
+Validation Loss: 1.730400031263178
+Elapsed time for epoch-3: 31.00865602493286
+Epoch: 4, 
+Train Loss: 1.7585757842816805, 
+Validation Loss: 1.7344206246462734
+Elapsed time for epoch-4: 31.151227474212646
+Epoch: 5, 
+Train Loss: 1.7582367314790424, 
+Validation Loss: 1.7344476851550015
+Elapsed time for epoch-5: 31.265002489089966
+Epoch: 6, 
+Train Loss: 1.7579094645851536, 
+Validation Loss: 1.7353685877539895
+Elapsed time for epoch-6: 31.19215226173401
+Epoch: 7, 
+Train Loss: 1.75760614771592, 
+Validation Loss: 1.7372594006133801
+Elapsed time for epoch-7: 31.059505462646484
+Epoch: 8, 
+Train Loss: 1.7575539107071725, 
+Validation Loss: 1.7388559164422932
+Elapsed time for epoch-8: 31.228278160095215
+Early stopped! 
+
+Training the 113-th turbine in 329.2511818408966 secs
+
+>>>>>>> Training Turbine 114 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9101102608128597, 
+Validation Loss: 1.6961433417869336
+Elapsed time for epoch-0: 31.108878135681152
+Epoch: 1, 
+Train Loss: 1.7401682813544022, 
+Validation Loss: 1.7102038914507085
+Elapsed time for epoch-1: 30.97117257118225
+Epoch: 2, 
+Train Loss: 1.7305697350752982, 
+Validation Loss: 1.6943417805613894
+Elapsed time for epoch-2: 30.542506217956543
+Epoch: 3, 
+Train Loss: 1.7284690221987273, 
+Validation Loss: 1.705305809324438
+Elapsed time for epoch-3: 31.439154863357544
+Epoch: 4, 
+Train Loss: 1.7278599214553834, 
+Validation Loss: 1.7024975599664631
+Elapsed time for epoch-4: 31.118314743041992
+Epoch: 5, 
+Train Loss: 1.7273928983587967, 
+Validation Loss: 1.702438979437857
+Elapsed time for epoch-5: 31.279682159423828
+Epoch: 6, 
+Train Loss: 1.7274737656743904, 
+Validation Loss: 1.698487928419402
+Elapsed time for epoch-6: 30.84289312362671
+Epoch: 7, 
+Train Loss: 1.7273241193670976, 
+Validation Loss: 1.698257995374275
+Elapsed time for epoch-7: 30.864929676055908
+Early stopped! 
+
+Training the 114-th turbine in 290.45365691185 secs
+
+>>>>>>> Training Turbine 115 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9566028313887747, 
+Validation Loss: 1.5571618278821309
+Elapsed time for epoch-0: 30.85408878326416
+Epoch: 1, 
+Train Loss: 1.7607119748466893, 
+Validation Loss: 1.660339770895062
+Elapsed time for epoch-1: 30.521153211593628
+Epoch: 2, 
+Train Loss: 1.7484374344976326, 
+Validation Loss: 1.5749677528034558
+Elapsed time for epoch-2: 30.552218198776245
+Epoch: 3, 
+Train Loss: 1.745909756108334, 
+Validation Loss: 1.5802589835542622
+Elapsed time for epoch-3: 30.73484444618225
+Epoch: 4, 
+Train Loss: 1.7447917767574912, 
+Validation Loss: 1.586769467050379
+Elapsed time for epoch-4: 31.05125331878662
+Epoch: 5, 
+Train Loss: 1.7443150199087043, 
+Validation Loss: 1.5922353502475854
+Elapsed time for epoch-5: 30.90376615524292
+Early stopped! 
+
+Training the 115-th turbine in 233.69418120384216 secs
+
+>>>>>>> Training Turbine 116 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9692856753499883, 
+Validation Loss: 1.3239390904253179
+Elapsed time for epoch-0: 30.85143256187439
+Epoch: 1, 
+Train Loss: 1.7688826779315345, 
+Validation Loss: 1.3325353662172954
+Elapsed time for epoch-1: 30.774099826812744
+Epoch: 2, 
+Train Loss: 1.7555287147823133, 
+Validation Loss: 1.3440230850017432
+Elapsed time for epoch-2: 30.738823175430298
+Epoch: 3, 
+Train Loss: 1.7530882167816162, 
+Validation Loss: 1.3395886041901328
+Elapsed time for epoch-3: 30.449564695358276
+Epoch: 4, 
+Train Loss: 1.7524762329302337, 
+Validation Loss: 1.345812647631674
+Elapsed time for epoch-4: 30.667904376983643
+Epoch: 5, 
+Train Loss: 1.7514379594200535, 
+Validation Loss: 1.3456675392208677
+Elapsed time for epoch-5: 30.68760347366333
+Early stopped! 
+
+Training the 116-th turbine in 233.43880033493042 secs
+
+>>>>>>> Training Turbine 117 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.945633682702717, 
+Validation Loss: 1.7240235516519258
+Elapsed time for epoch-0: 30.28810715675354
+Epoch: 1, 
+Train Loss: 1.7562205829118427, 
+Validation Loss: 1.7078533515785679
+Elapsed time for epoch-1: 30.699854373931885
+Epoch: 2, 
+Train Loss: 1.741583924544485, 
+Validation Loss: 1.7185909874511487
+Elapsed time for epoch-2: 30.895363330841064
+Epoch: 3, 
+Train Loss: 1.7377028309671503, 
+Validation Loss: 1.7077872969887473
+Elapsed time for epoch-3: 30.85168719291687
+Epoch: 4, 
+Train Loss: 1.7366767677507902, 
+Validation Loss: 1.7188892400625981
+Elapsed time for epoch-4: 31.047431468963623
+Epoch: 5, 
+Train Loss: 1.7364521362907008, 
+Validation Loss: 1.7099028500643643
+Elapsed time for epoch-5: 30.408999919891357
+Epoch: 6, 
+Train Loss: 1.736162714456257, 
+Validation Loss: 1.7123976711070898
+Elapsed time for epoch-6: 30.923229932785034
+Epoch: 7, 
+Train Loss: 1.7357190606468602, 
+Validation Loss: 1.71513144717072
+Elapsed time for epoch-7: 31.4053373336792
+Epoch: 8, 
+Train Loss: 1.7358271174681814, 
+Validation Loss: 1.7187145189805464
+Elapsed time for epoch-8: 30.12211298942566
+Early stopped! 
+
+Training the 117-th turbine in 325.9267177581787 secs
+
+>>>>>>> Training Turbine 118 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0052496159704107, 
+Validation Loss: 1.5276707717866609
+Elapsed time for epoch-0: 30.944904804229736
+Epoch: 1, 
+Train Loss: 1.8224025896975868, 
+Validation Loss: 1.5850478103666594
+Elapsed time for epoch-1: 30.960402488708496
+Epoch: 2, 
+Train Loss: 1.8115536830299779, 
+Validation Loss: 1.5781044400099553
+Elapsed time for epoch-2: 30.596967697143555
+Epoch: 3, 
+Train Loss: 1.8087100902356599, 
+Validation Loss: 1.5315574299205432
+Elapsed time for epoch-3: 30.9851713180542
+Epoch: 4, 
+Train Loss: 1.807751121771963, 
+Validation Loss: 1.5443207079713994
+Elapsed time for epoch-4: 31.74382734298706
+Epoch: 5, 
+Train Loss: 1.80734341696689, 
+Validation Loss: 1.5327488707773613
+Elapsed time for epoch-5: 31.45817494392395
+Early stopped! 
+
+Training the 118-th turbine in 236.22800064086914 secs
+
+>>>>>>> Training Turbine 119 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9916229202872828, 
+Validation Loss: 1.5982542345018098
+Elapsed time for epoch-0: 30.93553590774536
+Epoch: 1, 
+Train Loss: 1.8124456460852372, 
+Validation Loss: 1.5627606095689717
+Elapsed time for epoch-1: 30.65881061553955
+Epoch: 2, 
+Train Loss: 1.8005975090829949, 
+Validation Loss: 1.5795957969896721
+Elapsed time for epoch-2: 30.195077419281006
+Epoch: 3, 
+Train Loss: 1.797958739180314, 
+Validation Loss: 1.5677085464650935
+Elapsed time for epoch-3: 30.862874507904053
+Epoch: 4, 
+Train Loss: 1.796863058742724, 
+Validation Loss: 1.587911186796246
+Elapsed time for epoch-4: 30.70179557800293
+Epoch: 5, 
+Train Loss: 1.796455535386738, 
+Validation Loss: 1.5840894959189675
+Elapsed time for epoch-5: 30.421340227127075
+Epoch: 6, 
+Train Loss: 1.7963225040937725, 
+Validation Loss: 1.5824470447771477
+Elapsed time for epoch-6: 30.978176832199097
+Early stopped! 
+
+Training the 119-th turbine in 263.6131432056427 secs
+
+>>>>>>> Training Turbine 120 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.7917957278301841, 
+Validation Loss: 1.4579049403017217
+Elapsed time for epoch-0: 30.67246651649475
+Epoch: 1, 
+Train Loss: 1.6567926093151695, 
+Validation Loss: 1.450925785483736
+Elapsed time for epoch-1: 30.477699279785156
+Epoch: 2, 
+Train Loss: 1.6497430490192615, 
+Validation Loss: 1.4701231537443218
+Elapsed time for epoch-2: 31.077460289001465
+Epoch: 3, 
+Train Loss: 1.6485598523993241, 
+Validation Loss: 1.46505781917861
+Elapsed time for epoch-3: 31.241053104400635
+Epoch: 4, 
+Train Loss: 1.6474612248571296, 
+Validation Loss: 1.477998744357716
+Elapsed time for epoch-4: 30.458470344543457
+Epoch: 5, 
+Train Loss: 1.646553507855064, 
+Validation Loss: 1.4663051222309922
+Elapsed time for epoch-5: 31.000336408615112
+Epoch: 6, 
+Train Loss: 1.6467416803460373, 
+Validation Loss: 1.4721828699111938
+Elapsed time for epoch-6: 30.452083110809326
+Early stopped! 
+
+Training the 120-th turbine in 264.0471751689911 secs
+
+>>>>>>> Training Turbine 121 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.8647384844328228, 
+Validation Loss: 1.5416846871376038
+Elapsed time for epoch-0: 30.801743984222412
+Epoch: 1, 
+Train Loss: 1.6874767755207263, 
+Validation Loss: 1.5501137827381943
+Elapsed time for epoch-1: 30.209339141845703
+Epoch: 2, 
+Train Loss: 1.6791447398537083, 
+Validation Loss: 1.5375028360973706
+Elapsed time for epoch-2: 30.399375677108765
+Epoch: 3, 
+Train Loss: 1.6776563072204589, 
+Validation Loss: 1.545962160283869
+Elapsed time for epoch-3: 30.141655921936035
+Epoch: 4, 
+Train Loss: 1.676549905726784, 
+Validation Loss: 1.5376021825906
+Elapsed time for epoch-4: 30.502513885498047
+Epoch: 5, 
+Train Loss: 1.6757528410459819, 
+Validation Loss: 1.5374056136969365
+Elapsed time for epoch-5: 30.472770929336548
+Epoch: 6, 
+Train Loss: 1.6758909132606106, 
+Validation Loss: 1.536393738154209
+Elapsed time for epoch-6: 30.42276096343994
+Epoch: 7, 
+Train Loss: 1.6755287039907356, 
+Validation Loss: 1.539283250317429
+Elapsed time for epoch-7: 30.771827936172485
+Epoch: 8, 
+Train Loss: 1.6755148862537586, 
+Validation Loss: 1.541618119586598
+Elapsed time for epoch-8: 30.693663597106934
+Epoch: 9, 
+Train Loss: 1.6756345427663704, 
+Validation Loss: 1.540276410001697
+Elapsed time for epoch-9: 30.473655223846436
+
+Training the 121-th turbine in 348.2346222400665 secs
+
+>>>>>>> Training Turbine 122 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.967479082659671, 
+Validation Loss: 1.5817022883530818
+Elapsed time for epoch-0: 31.175205945968628
+Epoch: 1, 
+Train Loss: 1.7651203677528784, 
+Validation Loss: 1.5637129491025752
+Elapsed time for epoch-1: 30.246800422668457
+Epoch: 2, 
+Train Loss: 1.7511165957701833, 
+Validation Loss: 1.5528937578201294
+Elapsed time for epoch-2: 31.128138065338135
+Epoch: 3, 
+Train Loss: 1.7481349829623574, 
+Validation Loss: 1.5744318709228977
+Elapsed time for epoch-3: 30.943418264389038
+Epoch: 4, 
+Train Loss: 1.7467849756542004, 
+Validation Loss: 1.5670122395862232
+Elapsed time for epoch-4: 30.933155059814453
+Epoch: 5, 
+Train Loss: 1.7463608573612415, 
+Validation Loss: 1.5660165024526191
+Elapsed time for epoch-5: 30.635951280593872
+Epoch: 6, 
+Train Loss: 1.7459265663749293, 
+Validation Loss: 1.5655550198121504
+Elapsed time for epoch-6: 30.3077974319458
+Epoch: 7, 
+Train Loss: 1.746102963999698, 
+Validation Loss: 1.5650811285683603
+Elapsed time for epoch-7: 31.0460147857666
+Early stopped! 
+
+Training the 122-th turbine in 294.2471921443939 secs
+
+>>>>>>> Training Turbine 123 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9547649679685895, 
+Validation Loss: 1.614092483665004
+Elapsed time for epoch-0: 31.341724634170532
+Epoch: 1, 
+Train Loss: 1.7760390422218724, 
+Validation Loss: 1.6197656447237188
+Elapsed time for epoch-1: 31.136627435684204
+Epoch: 2, 
+Train Loss: 1.7641043321709884, 
+Validation Loss: 1.610210555972475
+Elapsed time for epoch-2: 31.103169202804565
+Epoch: 3, 
+Train Loss: 1.7615856572201378, 
+Validation Loss: 1.6184449502916047
+Elapsed time for epoch-3: 31.156550645828247
+Epoch: 4, 
+Train Loss: 1.760324404365138, 
+Validation Loss: 1.6083642732013355
+Elapsed time for epoch-4: 30.691126108169556
+Epoch: 5, 
+Train Loss: 1.7600259469684802, 
+Validation Loss: 1.613829614538135
+Elapsed time for epoch-5: 31.06255292892456
+Epoch: 6, 
+Train Loss: 1.7598897620251304, 
+Validation Loss: 1.6111777677680508
+Elapsed time for epoch-6: 30.995957374572754
+Epoch: 7, 
+Train Loss: 1.7594909080706145, 
+Validation Loss: 1.6160195722724453
+Elapsed time for epoch-7: 30.756366729736328
+Epoch: 8, 
+Train Loss: 1.759883881870069, 
+Validation Loss: 1.6145769050627043
+Elapsed time for epoch-8: 31.248631954193115
+Epoch: 9, 
+Train Loss: 1.7600194296083953, 
+Validation Loss: 1.6116179607131265
+Elapsed time for epoch-9: 30.694812536239624
+Early stopped! 
+
+Training the 123-th turbine in 351.11326479911804 secs
+
+>>>>>>> Training Turbine 124 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9748673817985936, 
+Validation Loss: 1.5705275391087388
+Elapsed time for epoch-0: 30.831942319869995
+Epoch: 1, 
+Train Loss: 1.7754050234744423, 
+Validation Loss: 1.5262166929967476
+Elapsed time for epoch-1: 30.95324683189392
+Epoch: 2, 
+Train Loss: 1.757920386163812, 
+Validation Loss: 1.5577619527325486
+Elapsed time for epoch-2: 30.4954571723938
+Epoch: 3, 
+Train Loss: 1.7546502818559346, 
+Validation Loss: 1.5323323968685034
+Elapsed time for epoch-3: 30.407378911972046
+Epoch: 4, 
+Train Loss: 1.7534823405115227, 
+Validation Loss: 1.529111345609029
+Elapsed time for epoch-4: 30.328486680984497
+Epoch: 5, 
+Train Loss: 1.7528646268342671, 
+Validation Loss: 1.5497683864651304
+Elapsed time for epoch-5: 30.676924467086792
+Epoch: 6, 
+Train Loss: 1.75303468101903, 
+Validation Loss: 1.5417452996427363
+Elapsed time for epoch-6: 30.284599781036377
+Early stopped! 
+
+Training the 124-th turbine in 257.8238377571106 secs
+
+>>>>>>> Training Turbine 125 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9778195958388478, 
+Validation Loss: 1.491429626941681
+Elapsed time for epoch-0: 30.580639362335205
+Epoch: 1, 
+Train Loss: 1.7853943056809274, 
+Validation Loss: 1.517123439095237
+Elapsed time for epoch-1: 30.606740474700928
+Epoch: 2, 
+Train Loss: 1.7703298869885897, 
+Validation Loss: 1.495645042621728
+Elapsed time for epoch-2: 30.61452031135559
+Epoch: 3, 
+Train Loss: 1.766948400296663, 
+Validation Loss: 1.49621977408727
+Elapsed time for epoch-3: 31.187243938446045
+Epoch: 4, 
+Train Loss: 1.765517393162376, 
+Validation Loss: 1.496375934644179
+Elapsed time for epoch-4: 30.712700366973877
+Epoch: 5, 
+Train Loss: 1.76527614417829, 
+Validation Loss: 1.4867530501250066
+Elapsed time for epoch-5: 30.858547925949097
+Epoch: 6, 
+Train Loss: 1.7651043016032169, 
+Validation Loss: 1.4921777374816663
+Elapsed time for epoch-6: 30.747822523117065
+Epoch: 7, 
+Train Loss: 1.7643142697685643, 
+Validation Loss: 1.4902084162740996
+Elapsed time for epoch-7: 30.607664108276367
+Epoch: 8, 
+Train Loss: 1.7643426518691214, 
+Validation Loss: 1.4928544109517878
+Elapsed time for epoch-8: 31.000181674957275
+Epoch: 9, 
+Train Loss: 1.7642993743796098, 
+Validation Loss: 1.4879286758827441
+Elapsed time for epoch-9: 30.74236488342285
+
+Training the 125-th turbine in 356.9100430011749 secs
+
+>>>>>>> Training Turbine 126 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9729143017216733, 
+Validation Loss: 1.5484442078705989
+Elapsed time for epoch-0: 30.698044061660767
+Epoch: 1, 
+Train Loss: 1.7845301048379196, 
+Validation Loss: 1.557849053180579
+Elapsed time for epoch-1: 31.032042026519775
+Epoch: 2, 
+Train Loss: 1.7681714238618549, 
+Validation Loss: 1.5154159105185308
+Elapsed time for epoch-2: 31.06733202934265
+Epoch: 3, 
+Train Loss: 1.7642022037506104, 
+Validation Loss: 1.5311479857473662
+Elapsed time for epoch-3: 31.05860137939453
+Epoch: 4, 
+Train Loss: 1.7631986103559796, 
+Validation Loss: 1.5176710775404265
+Elapsed time for epoch-4: 31.028425931930542
+Epoch: 5, 
+Train Loss: 1.7622611853950902, 
+Validation Loss: 1.5346271630489465
+Elapsed time for epoch-5: 30.62021231651306
+Epoch: 6, 
+Train Loss: 1.7620047155179475, 
+Validation Loss: 1.5210178982127796
+Elapsed time for epoch-6: 31.089531183242798
+Epoch: 7, 
+Train Loss: 1.7620118663185522, 
+Validation Loss: 1.5199304204998594
+Elapsed time for epoch-7: 31.104640007019043
+Early stopped! 
+
+Training the 126-th turbine in 296.7188515663147 secs
+
+>>>>>>> Training Turbine 127 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.984507904805635, 
+Validation Loss: 1.4600177840753035
+Elapsed time for epoch-0: 30.493051528930664
+Epoch: 1, 
+Train Loss: 1.7983935137798912, 
+Validation Loss: 1.4666407577919238
+Elapsed time for epoch-1: 31.252601623535156
+Epoch: 2, 
+Train Loss: 1.7844485980586002, 
+Validation Loss: 1.4839076887477527
+Elapsed time for epoch-2: 30.637406587600708
+Epoch: 3, 
+Train Loss: 1.781335156842282, 
+Validation Loss: 1.464388937661142
+Elapsed time for epoch-3: 30.609495639801025
+Epoch: 4, 
+Train Loss: 1.7804819265164826, 
+Validation Loss: 1.4681227911602368
+Elapsed time for epoch-4: 31.27244520187378
+Epoch: 5, 
+Train Loss: 1.7795201278987685, 
+Validation Loss: 1.4620669646696611
+Elapsed time for epoch-5: 30.979397296905518
+Early stopped! 
+
+Training the 127-th turbine in 230.48526549339294 secs
+
+>>>>>>> Training Turbine 128 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0167821537820916, 
+Validation Loss: 1.3613045504598906
+Elapsed time for epoch-0: 30.97486925125122
+Epoch: 1, 
+Train Loss: 1.8303121857894094, 
+Validation Loss: 1.3405780394872029
+Elapsed time for epoch-1: 30.846307277679443
+Epoch: 2, 
+Train Loss: 1.8153456542366428, 
+Validation Loss: 1.3113529031926936
+Elapsed time for epoch-2: 30.75476598739624
+Epoch: 3, 
+Train Loss: 1.8123338789688914, 
+Validation Loss: 1.3406838124448603
+Elapsed time for epoch-3: 31.34056258201599
+Epoch: 4, 
+Train Loss: 1.8113425731658936, 
+Validation Loss: 1.339924120541775
+Elapsed time for epoch-4: 30.856609344482422
+Epoch: 5, 
+Train Loss: 1.810387914055272, 
+Validation Loss: 1.337354423421802
+Elapsed time for epoch-5: 31.017897844314575
+Epoch: 6, 
+Train Loss: 1.8103223557221262, 
+Validation Loss: 1.3465792608983589
+Elapsed time for epoch-6: 30.82101035118103
+Epoch: 7, 
+Train Loss: 1.810311451460186, 
+Validation Loss: 1.3461485848282322
+Elapsed time for epoch-7: 31.273829221725464
+Early stopped! 
+
+Training the 128-th turbine in 285.31195616722107 secs
+
+>>>>>>> Training Turbine 129 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9811050660986649, 
+Validation Loss: 1.5173641190384373
+Elapsed time for epoch-0: 31.263614416122437
+Epoch: 1, 
+Train Loss: 1.788510967304832, 
+Validation Loss: 1.4934778646989302
+Elapsed time for epoch-1: 30.98171353340149
+Epoch: 2, 
+Train Loss: 1.771013396162736, 
+Validation Loss: 1.47948010040052
+Elapsed time for epoch-2: 30.877511739730835
+Epoch: 3, 
+Train Loss: 1.7678493231221248, 
+Validation Loss: 1.4999146949161182
+Elapsed time for epoch-3: 31.343319416046143
+Epoch: 4, 
+Train Loss: 1.7663476271378367, 
+Validation Loss: 1.5085202166528413
+Elapsed time for epoch-4: 30.84200620651245
+Epoch: 5, 
+Train Loss: 1.7660145398190148, 
+Validation Loss: 1.5104344125949976
+Elapsed time for epoch-5: 31.067513465881348
+Epoch: 6, 
+Train Loss: 1.7652475999530992, 
+Validation Loss: 1.4995778401692708
+Elapsed time for epoch-6: 31.519118309020996
+Epoch: 7, 
+Train Loss: 1.7653799051987498, 
+Validation Loss: 1.500719343170975
+Elapsed time for epoch-7: 30.971019983291626
+Early stopped! 
+
+Training the 129-th turbine in 294.2151279449463 secs
+
+>>>>>>> Training Turbine 130 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0064340061890453, 
+Validation Loss: 1.4644705635128599
+Elapsed time for epoch-0: 30.858407258987427
+Epoch: 1, 
+Train Loss: 1.8146302697533054, 
+Validation Loss: 1.4555212168982534
+Elapsed time for epoch-1: 30.44450068473816
+Epoch: 2, 
+Train Loss: 1.8010136393496865, 
+Validation Loss: 1.4465546210606892
+Elapsed time for epoch-2: 30.956639766693115
+Epoch: 3, 
+Train Loss: 1.7980122051740948, 
+Validation Loss: 1.4466958804564043
+Elapsed time for epoch-3: 31.341188669204712
+Epoch: 4, 
+Train Loss: 1.7964923236244603, 
+Validation Loss: 1.425969584421678
+Elapsed time for epoch-4: 30.461783170700073
+Epoch: 5, 
+Train Loss: 1.7961673430392617, 
+Validation Loss: 1.4349494576454163
+Elapsed time for epoch-5: 30.13603711128235
+Epoch: 6, 
+Train Loss: 1.7958488908566927, 
+Validation Loss: 1.4311107722195713
+Elapsed time for epoch-6: 31.046918392181396
+Epoch: 7, 
+Train Loss: 1.7958137705451565, 
+Validation Loss: 1.429167841420029
+Elapsed time for epoch-7: 31.038392543792725
+Epoch: 8, 
+Train Loss: 1.795428450233058, 
+Validation Loss: 1.4336625825275073
+Elapsed time for epoch-8: 30.416829347610474
+Epoch: 9, 
+Train Loss: 1.7958712936702528, 
+Validation Loss: 1.4346356048728481
+Elapsed time for epoch-9: 30.565869569778442
+Early stopped! 
+
+Training the 130-th turbine in 341.8774893283844 secs
+
+>>>>>>> Training Turbine 131 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 1.9982605510008962, 
+Validation Loss: 1.4890146165183096
+Elapsed time for epoch-0: 31.09485912322998
+Epoch: 1, 
+Train Loss: 1.8166600157085218, 
+Validation Loss: 1.4717375383232578
+Elapsed time for epoch-1: 30.79673743247986
+Epoch: 2, 
+Train Loss: 1.8027518262361226, 
+Validation Loss: 1.5095084562446133
+Elapsed time for epoch-2: 31.33028531074524
+Epoch: 3, 
+Train Loss: 1.799842613370795, 
+Validation Loss: 1.5135617147792468
+Elapsed time for epoch-3: 30.86302423477173
+Epoch: 4, 
+Train Loss: 1.7987508291947214, 
+Validation Loss: 1.487553054636175
+Elapsed time for epoch-4: 30.887526035308838
+Epoch: 5, 
+Train Loss: 1.797963941222743, 
+Validation Loss: 1.4880995985233423
+Elapsed time for epoch-5: 30.978092432022095
+Epoch: 6, 
+Train Loss: 1.7978210727792037, 
+Validation Loss: 1.4901640722245881
+Elapsed time for epoch-6: 30.777527809143066
+Early stopped! 
+
+Training the 131-th turbine in 265.23155903816223 secs
+
+>>>>>>> Training Turbine 132 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0031753161079004, 
+Validation Loss: 1.5550011306098013
+Elapsed time for epoch-0: 30.732213735580444
+Epoch: 1, 
+Train Loss: 1.8059198444768003, 
+Validation Loss: 1.4984081712636081
+Elapsed time for epoch-1: 30.468703508377075
+Epoch: 2, 
+Train Loss: 1.7904051331469888, 
+Validation Loss: 1.4914118792071487
+Elapsed time for epoch-2: 30.473058938980103
+Epoch: 3, 
+Train Loss: 1.7870967506107531, 
+Validation Loss: 1.5066326043822549
+Elapsed time for epoch-3: 30.441274881362915
+Epoch: 4, 
+Train Loss: 1.7857508594111393, 
+Validation Loss: 1.5033409035567082
+Elapsed time for epoch-4: 30.38260769844055
+Epoch: 5, 
+Train Loss: 1.785048434859828, 
+Validation Loss: 1.4956772038430879
+Elapsed time for epoch-5: 29.914926052093506
+Epoch: 6, 
+Train Loss: 1.7851395722439414, 
+Validation Loss: 1.5037445335677175
+Elapsed time for epoch-6: 29.876307249069214
+Epoch: 7, 
+Train Loss: 1.7844187691337183, 
+Validation Loss: 1.5061134479262612
+Elapsed time for epoch-7: 29.996246099472046
+Early stopped! 
+
+Training the 132-th turbine in 286.548535823822 secs
+
+>>>>>>> Training Turbine 133 >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Epoch: 0, 
+Train Loss: 2.0187853107954328, 
+Validation Loss: 1.418502856384624
+Elapsed time for epoch-0: 29.865450859069824
+Epoch: 1, 
+Train Loss: 1.8198809385299684, 
+Validation Loss: 1.356599666855552
+Elapsed time for epoch-1: 30.200046062469482
+Epoch: 2, 
+Train Loss: 1.8060560969302528, 
+Validation Loss: 1.3988161141222173
+Elapsed time for epoch-2: 31.695948839187622
+Epoch: 3, 
+Train Loss: 1.8023413979379754, 
+Validation Loss: 1.3874495499061816
+Elapsed time for epoch-3: 30.618706464767456
+Epoch: 4, 
+Train Loss: 1.8018698097530164, 
+Validation Loss: 1.3984645713459363
+Elapsed time for epoch-4: 30.91172957420349
+Epoch: 5, 
+Train Loss: 1.801473795740228, 
+Validation Loss: 1.3987630930813877
+Elapsed time for epoch-5: 31.676221132278442
+Epoch: 6, 
+Train Loss: 1.801111233108922, 
+Validation Loss: 1.4009606820164304
+Elapsed time for epoch-6: 31.017488956451416
+Early stopped! 
+
+Training the 133-th turbine in 257.4561686515808 secs
+
+Total time in training 134 turbines is 19412.314655065536 secs
