@@ -20,6 +20,7 @@ class Encoder(nn.Module):
         self.hidR = settings["hidR"]
         self.out = settings["out_var"]
         # self.dropout = nn.Dropout(settings["dropout"])
+        # self.dropout = nn.Dropout(settings["dropout"])
         self.lstm = nn.GRU(self.hidC, self.hidR, settings["lstm_layer"])
         # (input, hidden, layer)
 
