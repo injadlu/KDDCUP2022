@@ -50,7 +50,6 @@ def lgn_predict_split_com(x,turb,mod_list):
 
 def forecast_one_from_lstm(experiment, test_turbines, mean, std):
 
-
     args = experiment.get_args()
     tid = args["turbine_id"]
 
